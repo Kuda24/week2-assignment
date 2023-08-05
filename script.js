@@ -9,3 +9,4 @@ function subtraction() {
 }
 
 //Invoke subtraction function to run calculated age.
+console.log(subtraction());
